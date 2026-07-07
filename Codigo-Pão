@@ -1,0 +1,11 @@
+programa {
+
+    funcao inicio() {
+
+        escreva("Pão adicionado ao pedido.\n")
+        escreva("Tipo de pão: Brioche.\n")
+        escreva("Ingrediente pronto.\n")
+
+    }
+
+}
