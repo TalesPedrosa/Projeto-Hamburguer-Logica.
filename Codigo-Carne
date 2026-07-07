@@ -1,0 +1,11 @@
+programa {
+
+    funcao inicio() {
+
+        escreva("Carne adicionada ao hambúrguer.\n")
+        escreva("Tipo: Bovina\n")
+        escreva("Ponto: Ao ponto\n")
+
+    }
+
+}
