@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    cadeia ingrediente = "Bacon"
+    cadeia ponto = "Crocante"
+    inteiro quantidade = 3
+
+    escreva("Item: ", ingrediente, "\n")
+    escreva("Quantidade: ", quantidade, " fatias\n")
+    escreva("Ponto: ", ponto, "\n")
+  }
+}
